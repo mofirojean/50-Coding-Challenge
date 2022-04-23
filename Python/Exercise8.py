@@ -1,4 +1,7 @@
-# Coding challenge #8 Create a function that will convert from Celsius to Fahrenheit
+"""
+@author: mofirojean
+@project 8: Create a function that will convert from Celsius to Fahrenheit
+"""
 def celsius_to_fahrenheit(i):
 
     return i * 1.8 + 32

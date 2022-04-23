@@ -1,4 +1,7 @@
-# Coding challenge #13 Find the maximum number in an array of numbers
+"""
+@author: mofirojean
+@project 13: Find the maximum number in an array of numbers
+"""
 def max_number(number):
     maximum = 0
     for i in number:

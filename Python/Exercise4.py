@@ -1,3 +1,7 @@
+"""
+@author: mofirojean
+@project 4: Print all the multiplication tables with numbers from 1 to 10
+"""
 num = 1
 while num <= 10:
     print(f"Multiplication table for {num}")
