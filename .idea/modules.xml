@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/25-coding-challenges.iml" filepath="$PROJECT_DIR$/25-coding-challenges.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/25-Coding-Challenge-Part-I.iml" filepath="$PROJECT_DIR$/25-Coding-Challenge-Part-I.iml" />
+>>>>>>> 383249ba531a3bfb0452d7602bbae2ae0ad7506a
     </modules>
   </component>
 </project>
