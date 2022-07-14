@@ -13,5 +13,6 @@ def sumDigits(n):
     return total
 
 
+# Driver Method
 digits = sumDigits(1226252)
 print("Sum:", digits)
