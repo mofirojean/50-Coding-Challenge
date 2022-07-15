@@ -5,8 +5,8 @@
 
 
 # using the list slicing method
-def reversArray(arr):
-    reverse = arr[::-1]
+def reversArray(array):
+    reverse = array[::-1]
     return reverse
 
 
