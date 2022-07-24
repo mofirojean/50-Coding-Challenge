@@ -14,7 +14,7 @@ def mergeExclusive(array1, array2):
     for j in array2:
         if j not in arr:
             arr.append(j)
-    return arr
+    return sorted(arr)
 
 
 # Driver Method
