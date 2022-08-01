@@ -6,3 +6,5 @@
 - Try to solve at least 1 coding challenge per day
 
 - There is a pdf file attched to the repository holding the challenges and its left to you to implement them in the language you so desire
+
+- In this repository the challenges will be implemented using languages like Python, Java, C++, C and JavaScript
