@@ -4,8 +4,8 @@
  * Reminder: C = F – 32 / 1.8
  */
 
-function celsiusToFahrenheit(tem){
+function fahrenheitToCelsius(tem){
     return (tem * 1.8) + 32;
 }
 
-console.log(celsiusToFahrenheit(10));
+console.log(fahrenheitToCelsius(10));
