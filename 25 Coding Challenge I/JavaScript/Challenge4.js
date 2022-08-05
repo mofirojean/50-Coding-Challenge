@@ -8,6 +8,6 @@ function multiply(num){
 }
 
 for (let i = 1; i <= 10; i++){
-    console.log("Multiplication table for " + i)
+    console.log("Multiplication table for " + i);
     multiply(i);
 }
