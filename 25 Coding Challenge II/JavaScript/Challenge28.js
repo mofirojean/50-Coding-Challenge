@@ -1,7 +1,7 @@
 // Challege 28: Calculate the sum of first 100 prime numbers
 
 // function prints the first nPrime numbers
-function printPrime(nPrime){
+function sumPrime(nPrime){
     let n = 0;
     let i = 2;
     let sum = 0;
@@ -40,4 +40,4 @@ function isPrime(n){
 
 
 // Driver method
-console.log("The sum of the first 100 prime number", printPrime(100));
+console.log("The sum of the first 100 prime number", sumPrime(100));
