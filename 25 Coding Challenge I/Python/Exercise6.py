@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 6: Calculate 10!
+Challenge 6: Calculate 10!
 """
 prod = 1
 i = 1

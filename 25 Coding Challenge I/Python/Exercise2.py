@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 2: Print the odd numbers less than 100
+Challenge 2: Print the odd numbers less than 100
 """
 i = 100
 start = 1

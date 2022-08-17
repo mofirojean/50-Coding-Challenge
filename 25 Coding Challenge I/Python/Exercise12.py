@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 12a: Create a function that receives an array of numbers and returns an array containing only the positive numbers.
+Challenge 12a: Create a function that receives an array of numbers and returns an array containing only the positive numbers.
  * Requirement: Use a “for” loop
 """
 def positive_numbers(numbers):

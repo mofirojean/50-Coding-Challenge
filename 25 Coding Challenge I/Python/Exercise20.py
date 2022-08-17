@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 20: Rotate an array to the left 1 position
+Challenge 20: Rotate an array to the left 1 position
 """
 
 

@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 22: Reverse an array
+Challenge 22: Reverse an array
 """
 
 

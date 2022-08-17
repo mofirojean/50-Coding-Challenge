@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 13: Find the maximum number in an array of numbers
+Challenge 13: Find the maximum number in an array of numbers
 """
 def max_number(number):
     maximum = 0

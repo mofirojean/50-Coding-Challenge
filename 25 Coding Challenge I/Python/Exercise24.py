@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 24: Create a function that will merge
+Challenge 24: Create a function that will merge
 two arrays and return the result as
 a new array
 """

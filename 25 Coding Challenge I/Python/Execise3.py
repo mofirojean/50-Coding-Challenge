@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 3: The program creates and prints the 7 
+Challenge 3: The program creates and prints the 7 
 Times table"""
 
 table_end = 12

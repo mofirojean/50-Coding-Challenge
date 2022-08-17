@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 15: Create a function that will find the nth Fibonacci number using recursion.
+Challenge 15: Create a function that will find the nth Fibonacci number using recursion.
 """
 
 

@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 16: Create a function that will return a Boolean
+Challenge 16: Create a function that will return a Boolean
 specifying if a number is prime
 """
 

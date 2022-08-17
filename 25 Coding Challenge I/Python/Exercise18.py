@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 18: Print the first 100 prime numbers
+Challenge 18: Print the first 100 prime numbers
 """
 
 

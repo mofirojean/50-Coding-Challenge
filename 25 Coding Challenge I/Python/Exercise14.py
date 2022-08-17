@@ -1,6 +1,5 @@
 """
-@author: mofirojean
-@project 14: Print the first 10 Fibonacci numbers without using recursion. Reminder:
+Challenge 14: Print the first 10 Fibonacci numbers without using recursion. Reminder:
  * F(0) = 0
  * F(1) = 1
  * F(n) = F(n-1) + F(n-2)

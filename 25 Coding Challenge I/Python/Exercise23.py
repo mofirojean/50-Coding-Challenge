@@ -1,6 +1,5 @@
 """
-@ nebaDesmond
-@Project 22: Reverse a string
+Challenge 22: Reverse a string
 """
 
 
