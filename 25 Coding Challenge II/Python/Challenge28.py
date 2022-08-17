@@ -1,12 +1,10 @@
 """
 Challenge 28: calculate the sum of the first 100 prime numbers
 """
-
-
-# Returns true is a number is prime
 import math
 
 
+# Returns true is a number is prime
 def isPrime(n) -> bool:
     if n < 2:
         return False
