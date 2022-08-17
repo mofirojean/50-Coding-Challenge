@@ -1,30 +1,39 @@
 """
 Challenge 18: Print the first 100 prime numbers
 """
+import math
 
-
-# Returns true if a number is prime
-def is_prime(n: int) -> bool:
-    """Primality test using 6k+-1 optimization."""
-    if n <= 3:
-        return n > 1
-    if not n % 2 or not n % 3:
+def isPrime(n) -> bool:
+    if n < 2:
         return False
-    i = 5
-    stop = int(n ** 0.5)
-    while i <= stop:
-        if not n % i or not n % (i + 2):
+    if n == 2:
+        return True
+
+    maxDiv = math.sqrt(n)
+    i = 2
+    while i <= maxDiv:
+        if n % i == 0:
             return False
-        i += 6
+        i += 1
     return True
 
 
-# function prints the first nPrime numbers
-def printPrimes(nPrimes):
-    for i in range(1, nPrimes + 1):
-        if is_prime(i):
-            print(i)
+def printPrime(nPrimes):
+    n = 0
+    i = 2
+ 
+
+    while n < nPrimes:
+        if isPrime(i):
+            print(n, "--->", i)
+            n += 1
+        i += 1
 
 
 # Driver Method
-printPrimes(13)
+def main():
+    printPrime(100)
+    
+if __name__ == "__main__":
+    main()
+    
