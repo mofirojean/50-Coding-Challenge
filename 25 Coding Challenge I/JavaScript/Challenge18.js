@@ -8,9 +8,8 @@ function printPrime(nPrime){
     while (n < nPrime){
         if (isPrime(i)){
             console.log(" ---> ", i);
-            
+            n++;
         }
-        n++;
         i++;
     }
 }
