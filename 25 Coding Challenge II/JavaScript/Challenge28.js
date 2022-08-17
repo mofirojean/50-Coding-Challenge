@@ -9,9 +9,8 @@ function sumPrime(nPrime){
     while (n < nPrime){
         if (isPrime(i)){
             sum += i;
-            
+            n++;
         }
-        n++;
         i++;
     }
 

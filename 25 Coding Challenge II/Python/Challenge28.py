@@ -16,7 +16,7 @@ def isPrime(n) -> bool:
     maxDiv = math.sqrt(n)
     i = 2
     while i <= maxDiv:
-        if n % 1 == 0:
+        if n % i == 0:
             return False
         i += 1
     return True
@@ -25,12 +25,21 @@ def isPrime(n) -> bool:
 def printPrime(nPrimes):
     n = 0
     i = 2
+    total = 0
 
     while n < nPrimes:
         if isPrime(i):
-            print(n, "--->", i)
+            total += i
             n += 1
         i += 1
 
+    return total
 
-printPrime(100)
+
+# Driver Method
+def main():
+    print("The Sum of the first 100Th prime numbers", printPrime(100))
+
+
+if __name__ == "__main__":
+    main()
