@@ -36,6 +36,5 @@ function findSum(first, second){
 
 
 // DRiver Method
-if (first.length >= second.length){
-    console.log("The sum is", findSum(first, second));
-} else console.log("The sum is", findSum(second, first));
+if (first.length >= second.length)console.log("The sum is", findSum(first, second));
+else console.log("The sum is", findSum(second, first));
