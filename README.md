@@ -1,5 +1,5 @@
 # 50 Coding Challenge
-- These coding challenges are intended for code newbies that want to practice any type of programming language (like Python, Java, C, C++, JavaScript and many others)
+- These coding challenges are intended for code newbies who want to practice coding in any type of programming language (like Python, Java, C, C++, JavaScript and many others)
 
 - The challenges are designed to be solved with the basics of any prigramming language constructs
 
