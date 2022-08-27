@@ -1,2 +1,2 @@
-# README for Java
-This repository contains the 25 coding challenges written in Java
+# 50 Coding Challenge with Java Part I
+This repository contains the 50 coding challenges written in Java from challenge 1 to 25

@@ -8,7 +8,6 @@ function getCharCode(string){
         let code = string.charCodeAt(i);
         arr.push(code);
     }
-
     return arr;
 }
 
