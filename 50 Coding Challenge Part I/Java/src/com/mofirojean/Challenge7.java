@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge7 {
-    // @author: mofirojean
-    // @CodeChallenge 7: Calculate the sum of even numbers greater than 10 and less than 30
 
     public static void main(String[] args){
         // working with for loops

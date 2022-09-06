@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge1 {
-    // @author: mofirojean
-    // @CodeChallenge 1: Print numbers from 1 to 10
 
     public static void main(String[] args) {
         System.out.println("<-- Using a while loop -->");

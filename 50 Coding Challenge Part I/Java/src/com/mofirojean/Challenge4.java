@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge4 {
-    // @author: mofirojean
-    // @CodeChallenge 4: Print all the multiplication tables with numbers from 1 to 10
 
     public static void main(String[] args){
         // working with a for loop

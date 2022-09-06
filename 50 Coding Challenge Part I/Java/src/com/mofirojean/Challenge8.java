@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge8 {
-    // @author: mofirojean
-    // @CodeChallenge 8: Create a function that will convert from Celsius to Fahrenheit
 
     public static void main(String[] args){
         // Executing the temptConversion method

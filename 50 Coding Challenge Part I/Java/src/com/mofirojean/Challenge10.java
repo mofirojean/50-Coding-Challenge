@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge10 {
-    // @author: mofirojean
-    // @CodeChallenge 10: Calculate the sum of numbers in an array of numbers
 
     public static void main(String[] args){
         // implements the array addition method

@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge14 {
-    //@author: kimbifavour
-    //codeChallenge 14: Print the first 10 fibonacci numbers without using recurssion
 
     public static void main(String[] args){
         fibonacci();

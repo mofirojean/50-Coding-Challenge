@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge6 {
-    // @author: mofirojean
-    // @CodeChallenge 6: Calculate 10!
 
     public static void main(String[] args){
         // working with a for loop

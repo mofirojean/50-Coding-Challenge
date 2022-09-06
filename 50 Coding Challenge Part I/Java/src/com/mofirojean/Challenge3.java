@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge3 {
-    // @author: mofirojean
-    // @CodeChallenge 3: Print the multiplication table with 7
 
     public static void main(String[] args){
         System.out.println("<-- Using a for loop -->");

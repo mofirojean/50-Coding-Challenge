@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge11 {
-    // @author: mofirojean
-    // @CodeChallenge 11: Calculate the average of the numbers in an array of numbers
 
     public static void main(String[] args){
         // implementing the arrayAverage method

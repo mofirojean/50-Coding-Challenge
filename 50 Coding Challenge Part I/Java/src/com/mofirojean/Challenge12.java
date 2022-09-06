@@ -3,9 +3,6 @@ package com.mofirojean;
 import java.util.Arrays;
 
 public class Challenge12 {
-    // @author: mofirojean
-    // @CodeChallenge 12: Create a function that receives an array of numbers as argument and returns an
-    //array containing only the positive numbers
 
     public static void main(String[] args){
         // implement our methods

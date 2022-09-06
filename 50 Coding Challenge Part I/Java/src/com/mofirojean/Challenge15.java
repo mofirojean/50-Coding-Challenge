@@ -1,9 +1,6 @@
 package com.mofirojean;
 
 public class Challenge15 {
-    // @author: mofirojean
-    // @CodeChallenge 14: Create a function that will find the
-    //nth Fibonacci number using recursion.
 
     public static void main(String[] args){
         // Driver Method

@@ -1,8 +1,6 @@
 package com.mofirojean;
 
 public class Challenge5 {
-    // @author: mofirojean
-    // @CodeChallenge 5: Calculate the sum of numbers from 1 to 10
 
     public static void main(String[] args){
         // working with a for loop
