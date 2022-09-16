@@ -13,5 +13,6 @@ def getDistance(x1, x2, y1, y2):
     return math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
 
 
+# Driver Method
 if __name__ == "__main__":
     print(collisionCircleCircle(200, 200, 100, 300, 300, 50))
