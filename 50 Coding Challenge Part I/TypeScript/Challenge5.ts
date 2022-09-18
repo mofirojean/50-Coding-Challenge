@@ -6,4 +6,5 @@ for (let i = 1; i < 11; i++){
     total += i;
 }
 
+// Driver Method
 console.log(total);
