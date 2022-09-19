@@ -1,10 +1,10 @@
 // Challenge 23: Reverse a string
 
-function revereseString(string){
+function reverseString(string){
     let revStr = "";
     let len = string.length - 1;
 
-    for (let i = len; i >= 0; i++){
+    for (let i = len; i >= 0; i--){
         revStr += string[i];
     }
 
