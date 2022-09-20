@@ -13,7 +13,6 @@ function getDistinctElement(arr) {
     return newArr;
 }
 
-
 // Challenge 27a: Create a function that will receive an array of
 // numbers as argument and will return a new array with distinct elements
 
