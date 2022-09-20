@@ -2,24 +2,16 @@
 // numbers as argument and will return a new array with distinct elements
 
 // function checks if element is in array
-function isInArray(n, arr){
-    for (let i = 0; i < arr.length; i++){
-        if (arr[i] === n)
-            return true;
-    }
-    return false;
-}
-
-// includes the distinct element
-function distinctElement(arr){
+function getDistinctElement(arr) {
+    // create array to hold distinct value
     let newArr = [];
-    for (let i = 0; i < arr.length; i++){
-        if(!isInArray(arr[i], newArr)) newArr.push(arr[i]);
+    for (let i = 0; i < arr.length; i++) {
+        if (!newArr.includes(arr[i])) {
+            newArr.push(arr[i]);
+        }
     }
     return newArr;
 }
-
-
 
 
 // Challenge 27a: Create a function that will receive an array of
@@ -44,5 +36,5 @@ function getDistinctElement(arr){
 
 // Driver Method
 let arr = [1, 2, 3, 6, -1, 2, 9, 7, 10, -1, 100];
-console.log(distinctElement(arr));
+console.log(getDistinctElement(arr));
 console.log(getDistinctElement(arr));
