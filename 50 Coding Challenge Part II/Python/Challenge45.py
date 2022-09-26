@@ -5,10 +5,10 @@
 
 def sumArray(arr):
     total = 0
-    for ar in arr:
-        if type(ar) in (tuple, list):
-            ar = sumArray(arr)
-        total += ar
+    for sam_ar in arr:
+        if type(sam_ar) in (tuple, list):
+            sam_ar = sumArray(sam_ar)
+        total += sam_ar
     return total
 
 
