@@ -22,7 +22,7 @@ function getTheLongestWord(text){
     return getElements(words, maxPositon);
 }
 
-// Gets ily the elements frm specified positions from the array
+// Gets the elements frm specified positions from the array
 function getElements(arr, arPositions){
     let arNew = [];
 
