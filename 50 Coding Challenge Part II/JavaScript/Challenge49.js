@@ -12,6 +12,6 @@ function shuffleArray(arr) {
 }
   
 
-// Drver Method
+// Driver Method
 let ar = ["Shuffle", "an", "array", "of", "strings"]
 console.log(shuffleArray(ar))

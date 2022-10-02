@@ -14,7 +14,7 @@ function getRandomNumbers(n){
 }
 
 
-// shuffle method implemented using Fisher-yates shuffle algoeithm
+// shuffle method implemented using Fisher-yates shuffle algorithm
 function shuffleArray(arr) {
     let i = arr.length;
     while (--i > 0) {
