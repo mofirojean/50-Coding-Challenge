@@ -6,6 +6,7 @@ class Run{
 
         PrintNumbers.One();
         OddNumbers.Two();
-        // TimesTable.Three();
+        TimesTable.Three();
+        AllTimesTable.Four();
     }
 }
