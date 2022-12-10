@@ -9,5 +9,6 @@ class Run{
         TimesTable.Three();
         AllTimesTable.Four();
         SumToTen.Sum();
+        TenFactorial.Fact();
     }
 }
