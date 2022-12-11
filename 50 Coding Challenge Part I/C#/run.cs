@@ -8,5 +8,7 @@ class Run{
         OddNumbers.Two();
         TimesTable.Three();
         AllTimesTable.Four();
+        SumToTen.Sum();
+        TenFactorial.Fact();
     }
 }

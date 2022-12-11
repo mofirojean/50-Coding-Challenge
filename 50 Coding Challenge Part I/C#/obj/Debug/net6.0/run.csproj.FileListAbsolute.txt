@@ -1,0 +1,15 @@
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\bin\Debug\net6.0\run.exe
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\bin\Debug\net6.0\run.deps.json
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\bin\Debug\net6.0\run.runtimeconfig.json
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\bin\Debug\net6.0\run.dll
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\bin\Debug\net6.0\run.pdb
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.csproj.AssemblyReference.cache
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.AssemblyInfoInputs.cache
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.AssemblyInfo.cs
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.csproj.CoreCompileInputs.cache
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.dll
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\refint\run.dll
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.pdb
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\run.genruntimeconfig.cache
+D:\CODING\25-coding-challenge\25-Coding-Challenge-Part-I\50 Coding Challenge Part I\C#\obj\Debug\net6.0\ref\run.dll
