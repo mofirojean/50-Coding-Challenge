@@ -1,0 +1,11 @@
+{
+  "name": "coding_challenge",
+  "version": "1.0.0",
+  "description": "25 coding challenge with javascript",
+  "main": "Challenge26.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mofiro jean",
+  "license": "ISC"
+}
