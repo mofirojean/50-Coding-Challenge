@@ -1,4 +1,4 @@
 CFLAGS=-Wall -g
 
 clean:
-	rm -f challenge11
+	rm -f challenge12
