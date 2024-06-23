@@ -1,5 +1,5 @@
-import 'package:dart/challenge15.dart';
+import 'package:dart/challenge19.dart';
 
 void main(List<String> arguments) {
-  print('10th fibonnaci: ${findFibonacci(10)}');
+  print('results: ${getPrimes(10, 100)}');
 }
