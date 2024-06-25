@@ -1,5 +1,7 @@
-import 'package:dart/challenge19.dart';
+import 'package:dart/challenge25.dart';
 
 void main(List<String> arguments) {
-  print('results: ${getPrimes(10, 100)}');
+  List<int> arr1 = [1, 2, 4, 6, 12];
+  List<int> arr2 = [11, 1, 4, 12, 23];
+  print('results: ${mergeExlusive(arr1, arr2)}');
 }
